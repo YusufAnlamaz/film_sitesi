@@ -14,4 +14,4 @@ Filmler arasındaki geçişi sağlamak için JAVASCRİPT kullanıldı
 
 <h1>Ekran Görüntüsü</h1>
 
-<img src="ekran.gif"
+<img src="ekran.gif">
